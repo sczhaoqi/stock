@@ -1,0 +1,9 @@
+tushare:
+  address: https://api.waditu.com
+  token: b5d71cb4671af5a5aa3c0f1b309e2ef972f774ef8b9b551bc0340835
+spring:
+  data:
+    mongodb:
+      database: stock
+      host: 127.0.0.1
+      port: 27017
